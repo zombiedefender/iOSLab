@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>55B98730-918A-4602-8ACB-E5103E3CD296</string>
+	<key>IDESourceControlProjectName</key>
+	<string>rottenFruit</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>0E0C4E886B36109B9D647D2C959093FABAFC9E6F</key>
+		<string>https://github.com/zombiedefender/iOSLab.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>rottenFruit/rottenFruit.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>0E0C4E886B36109B9D647D2C959093FABAFC9E6F</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/zombiedefender/iOSLab.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>0E0C4E886B36109B9D647D2C959093FABAFC9E6F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>0E0C4E886B36109B9D647D2C959093FABAFC9E6F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>iosHomeWork</string>
+		</dict>
+	</array>
+</dict>
+</plist>
