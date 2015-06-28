@@ -10,3 +10,5 @@ This repostory is about our ios lab and homeworks.
   I don't know how to fix it now. 
   Thanks for knowing my struggle.
 
+- RottenFruit: The project I made follow by the course since the time constrain. Just made it fase follow by the instruction.
+
